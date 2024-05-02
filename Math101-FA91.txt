@@ -1,0 +1,35 @@
+Student	Section	Midterm	Final
+Art	Section 01	39	20
+Baboso Goretega	Section 02	55	72
+Brock Pearson	Section 01	95	100
+Brynn Larson	Section 02	76	57
+Carla Delgado	Section 02	51	58
+Carrie Williams	Section 01	11	13
+Chet Alexander	Section 02	70	95
+Chip Goff	Section 02	58	46
+Claire Wheeler	Section 02	87	88
+Debbie Gabler	Section 01	85	80
+Dirk Pratt	Section 01	61	98
+Don Carlton	Section 01	69	68
+Donna Soohoo	Section 01	82	100
+James P. Sullivan	Section 01	57	57
+Javier Rios	Section 02	43	50
+Johnny J. Worthington III	Section 01	78	100
+Maria Garcia	Section 02	73	100
+Mike Wazowski	Section 01	81	73
+Nadia Petrov	Section 02	87	74
+Nancy Kim	Section 02	39	64
+Omar Harris	Section 01	100	100
+Percy Boleslaw	Section 02	51	100
+Randall Boggs	Section 01	83	94
+Reggie Jacobs	Section 01	96	96
+Rhonda Boyd	Section 01	66	64
+Rosie Levin	Section 02	45	65
+Roy O'Growlahan	Section 01	80	77
+Scott Squibbles	Section 01	55	59
+Slug Student	Section 01	NA	NA
+Sonia Lewis	Section 02	56	81
+Susan Jensen	Section 02	71	100
+Terri Perry	Section 01	20	94
+Terry Perry	Section 01	92	NA
+Violet Steslicki	Section 01	56	58
